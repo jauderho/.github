@@ -1,0 +1,131 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.coverage
+*.coverage
+.coverage.*
+
+# Translations
+*.mo
+*.pot
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Environments
+.env
+.env.*
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Other
+_sessions
+_session_data
+_cache
+*.sav
+*.data
+*.pid
+*.seed
+*.pid.lock
+.swap
+.syntax_vimbackup
+.viminfo
+.vimrc
+.goorm
+.history
+.backup
+.jupyter
+.ipynb_checkpoints
+.project
+.sass-cache
+.connect.lock
+.yeoman
+.libPaths
+.serverless
+.dockerignore
+.npmrc
+.yarnrc
+.yarn-error.log
+.yarn-integrity
+.pnp
+.pnp.js
+.webpack-cache
+.ftpconfig
+.remote-sync.json
+.sftp-config.json
+.projectile
+.bundle
+.bower
+.shipit
+.terraform
+.vagrant
+.serverless
+.idea_modules
+*.iml
+*.ipr
+*.iws
+*.sw?
+*.swp
+*.swo
